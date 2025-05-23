@@ -11,8 +11,7 @@ I originally created this script to quickly switch between two Wi-Fi networks th
 - Toggles between two specified Wi-Fi SSIDs
 - Applies custom static IP, gateway, and DNS settings for each
 - Supports DHCP fallback/customization
-- Custom tray icons for each network
-- Optional keyboard shortcut (`Ctrl+Alt+W`)
+- Toggles connections via tray click, tray menu, or hotkey (Ctrl + Alt + W)
 
 ---
 
