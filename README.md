@@ -88,9 +88,9 @@ It lets you toggle between two network adapters (e.g., Ethernet and Wi-Fi)
 
 ## 💬 Final Notes
 
--Even when compiled, Windows may still flash a phantom console window like it’s trying to haunt you with legacy GUI vibes. It’s harmless, but annoying. We suppress it where we can, but some flickers persist.  
--This script is tailored for those who live on the edge — jumping between networks, testing VPN routes, or just wanting faster control over their Wi-Fi behavior without digging through Windows settings.  
--Use it, tweak it, break it, fix it — and if it helps you out, that’s a win in my book. 😎
+- Even when compiled, Windows may still flash a phantom console window like it’s trying to haunt you with legacy GUI vibes. It’s harmless, but annoying. We suppress it where we can, but some flickers persist.  
+- This script is tailored for those who live on the edge — jumping between networks, testing VPN routes, or just wanting faster control over their Wi-Fi behavior without digging through Windows settings.  
+- Use it, tweak it, break it, fix it — and if it helps you out, that’s a win in my book. 😎
 
 ---
 
